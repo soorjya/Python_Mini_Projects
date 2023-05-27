@@ -12,6 +12,7 @@ This repository contains a collection of small Python projects that are great fo
 - Graph Plotting: Plot graphs based on given data.
 - Currency Converter: Convert between different currencies.
 - Quiz Program: Test your knowledge with multiple-choice quizzes.
+- QR Code Generator: Generate QR codes for various types of data such as URLs, text messages, contact information, and Wi-Fi credentials.
 
 ## How to Run
 
