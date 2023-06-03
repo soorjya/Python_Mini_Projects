@@ -1,4 +1,4 @@
-# Rolling Dice Simulator
+# Dice Rolling Simulator
 
 Welcome to the Rolling Dice Simulator repository! This project is a simple dice rolling simulator implemented in Python. It allows you to simulate rolling one or multiple dice and displays the corresponding results.
 
