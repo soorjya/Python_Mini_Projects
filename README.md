@@ -7,6 +7,7 @@ This repository contains a collection of small Python projects that are great fo
 - Random Password Generator: Generate secure and random passwords.
 - Dice Rolling Simulator: Simulate rolling dice with customizable options.
 - Leap Year Checker: Determine whether a given year is a leap year.
+- Site Connectivity Program: Checks the connectivity of a website and returns the response code.
 - Python Face Detection: Detect faces in images using Python.
 - Image Resize: Resize images to a specified dimension.
 - Graph Plotting: Plot graphs based on given data.
