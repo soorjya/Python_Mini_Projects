@@ -7,7 +7,7 @@ def resize_image(sizel, size2) :
 
     resized_image = image.resize(( sizel, size2))
     
-    resized_image.save(' codewithtomi-Pogo-' + str(size1) + '.jpeg')
+    resized_image.save(' test-' + str(size1) + '.jpeg')
 
 size1 = int(input( ' Enter Width: '))
 size2 = int(input('Enter Length: '))
