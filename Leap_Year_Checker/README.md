@@ -14,7 +14,7 @@ The Leap Year Checker is a Python program that determines whether a given year i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/leap-year-checker.git
+git clone https://github.com/soorjya/leap-year-checker.git
 ```
 
 2. Navigate to the project directory:
