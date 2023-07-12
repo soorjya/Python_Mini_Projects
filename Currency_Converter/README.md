@@ -20,7 +20,7 @@ Before running the Currency Converter program, make sure you have the following 
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/soorjya/currency-converter.git
 ```
 2. Navigate to the project directory:
 ```shell
