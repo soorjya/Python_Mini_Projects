@@ -30,7 +30,7 @@ Confirm password: test1234
 ```
 ### Requirements
 - Python 3.x
-- CVS Library
+- CSV Library
 - Sys Library
 - Hashlib Library
 
